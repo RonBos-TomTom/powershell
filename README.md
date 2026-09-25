@@ -8,7 +8,7 @@ Dit is mijn eerste Markdown-bestand.
 - GitHub gebruiken
 - Pull requests begrijpen
 
-| Sections | Section Desription|
+| Sections | Section Description|
 |-----|---------------------------------|
 | A01 | Creer account|
 | A02 | Folder structuur |
